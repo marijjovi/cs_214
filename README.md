@@ -1,2 +1,2 @@
 # cs_214
-Assignments for data structures class 
+Assignments for CS 214 at Northwestern, Intro to Data Structures. 
